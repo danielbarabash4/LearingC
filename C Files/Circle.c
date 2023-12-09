@@ -2,7 +2,6 @@
 #include <math.h>
 
 int main(){
-  
   const double PI = 3.14159265358979323;
   double radius;
   double cir;
